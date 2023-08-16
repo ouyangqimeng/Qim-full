@@ -1,6 +1,18 @@
 # Qimeng R
 
 ## Markdown语法 **[Markdown官网](https://markdown.com.cn/basic-syntax/ "最好的Markdown语法教程")**.
+Markdown语法讲解了markdown语句的基本用法包括:<br>
+**[标题语法](https://markdown.com.cn/basic-syntax/headings.html)** <br>
+**[段落语法](https://markdown.com.cn/basic-syntax/paragraphs.html)** <br>
+**[换行语法](https://markdown.com.cn/basic-syntax/line-breaks.html)** <br>
+**[强调语法](https://markdown.com.cn/basic-syntax/emphasis.html)** <br>
+**[引用语法](https://markdown.com.cn/basic-syntax/blockquotes.html)** <br>
+**[列表语法](https://markdown.com.cn/basic-syntax/lists.html)** <br>
+**[代码语法](https://markdown.com.cn/basic-syntax/code.html)** <br>
+**[分割线语法](https://markdown.com.cn/basic-syntax/horizontal-rules.html)** <br>
+**[链接语法](https://markdown.com.cn/basic-syntax/links.html)** <br>
+**[图片语法](https://markdown.com.cn/basic-syntax/images.html)** <br>
+**[转义字符语法](https://markdown.com.cn/basic-syntax/escaping-characters.html)** <br>
 
 ## R语言PCA & PLS-DA 
 ```   
